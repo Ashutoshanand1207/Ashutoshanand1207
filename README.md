@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ashutosh Kumar 
-- 👀 I’m interested in ... Blockchain Industry 
+- 👀 I’m interested in ... Web Developement
 - 🌱 I’m currently learning ...Full Stack Development 
-- 💞️ I’m looking to collaborate on ... Blockchain 
+- 💞️ I’m looking to collaborate on ... Web App
 
 
 <!---
